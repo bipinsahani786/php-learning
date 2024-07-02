@@ -7,6 +7,6 @@ $name= "Bipin Sahani";
 echo "<h2 style='color:green'>My name is $name</h2>"
 ?>
 
-<h2 style='color:orange'>My name is <?php echo $name ; ?></h2>
+<h2 style='color:orange'>My name is <?php echo $name  ?></h2>
 
 <h2 style='color:<?php echo $h2_color ?>'>My name is <?php echo $name ; ?></h2>
